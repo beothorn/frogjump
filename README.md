@@ -1,5 +1,5 @@
 # frogjump
-An experiment with AI
+An experiment with AI or a minimalist command line code editor that enforces small actions.
 
 # The idea
 
